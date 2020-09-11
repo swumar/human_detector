@@ -14,4 +14,4 @@ Human detection in images using Histograms of Oriented Gradients and Local Binar
 	Enter the path to the positive test image
 	Enter the path to the negative test image
 	Enter number of neurons in hidden layer
-  Enter 1 to include lbp feature
+  	Enter 1 to include lbp feature
